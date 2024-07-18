@@ -6,9 +6,9 @@
 * [Revshell Generator](https://www.revshells.com/) - good revshell tool
 * [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression and data analysis
 * [GTFOBins](https://gtfobins.github.io/#) - list of Unix binaries that can be used to bypass local security restrictions
-* [Temp Mail](https://linux0.net/) - Temporary Email Address
-* [PayloadsAllTheThing](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web
-* [Active Directory Mindmap](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg) - How to pentest AD step by step
+* [Temp Mail](https://linux0.net/) - temporary Email Address
+* [PayloadsAllTheThing](https://github.com/swisskyrepo/PayloadsAllTheThings) - a list of useful payloads and bypass for Web
+* [Active Directory Mindmap](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg) - how to pentest AD step by step
 * [RequestBin](https://requestbin.kanbanbox.com/) - intercept webhook request
 
 
