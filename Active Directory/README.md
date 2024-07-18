@@ -1,5 +1,4 @@
-![New Project(1) (1)](https://github.com/user-attachments/assets/3f1907b6-605e-453b-8747-96bcbcfdce68)
-
+![Новый проект (5)](https://github.com/user-attachments/assets/0bfbfa2d-9868-4920-86ae-68d82721403e)
 
 ## Tools
 
